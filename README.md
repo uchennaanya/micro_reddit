@@ -24,7 +24,10 @@
 
 This is a simple Micro Reddit clone where user can create a post and comment on other posts.
 
-![Screenshot of console](./images/c1.png)
+![Screenshot of console](./images/screen1.png)
+![Screenshot of console](./images/screen2.png)
+![Screenshot of console](./images/screen3.png)
+![Screenshot of console](./images/screen4quit.png)
 
 ## Features
 
@@ -47,23 +50,17 @@ If you intend to download the project, you will need to have Ruby already instal
 
 ### Installation instructions
 
-Follow along the steps below to get a copy at your local machine.
+Follow along the steps below to get a copy on your local machine.
 
 - Navigate to the directory where you want this project to live and then clone it `git clone git@github.com:uchennaanya/micro_reddit.git`
 - Navigate to the `micro-reddit` directory
 - install the gem package with `bundle install`
-- Migrate the database on your local machine `rails db:migrate`
+- Migrate the database on your local machine with `rails db:migrate`
 - Open the console ($ rails console)
 
 **To get your own copy of our project clone the repository to your local machine.**
 
 [repository](https://github.com/uchennaanya/micro_reddit)
-
-# Run bundle install
-
-# Run rails s
-
-
 
 ## Authors
 
@@ -93,27 +90,4 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+This project is [MIT](./LICENSE) licensed.
