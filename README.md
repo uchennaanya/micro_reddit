@@ -27,7 +27,7 @@ This is a simple Micro Reddit clone where user can create a post and comment on 
 ![Screenshot of console](./images/screen1.png)
 ![Screenshot of console](./images/screen2.png)
 ![Screenshot of console](./images/screen3.png)
-![Screenshot of console](./images/screen4quit.png)
+![Screenshot of console](./images/screen4.png)
 
 ## Features
 
@@ -74,7 +74,7 @@ Follow along the steps below to get a copy on your local machine.
 
 - Github: [@uchennaanya](https://github.com/uchennaanya)
 - Twitter:[@matinsanya19](https://twitter.com/matinsanya19)
-- Linkedin: [Uchenna Martin Anya](https://linkedin.com/Uchenna-Anya)
+- Linkedin: [Uchenna Anya](https://linkedin.com/Uchenna-Anya)
 
 
 ## 🤝 Contributing
